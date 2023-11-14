@@ -8,7 +8,7 @@
 
 ## 视频讲解
 * B站      
-* youtube   
+* youtube   https://youtu.be/rMni1KonLe8
 
 ## 小小声明
 
