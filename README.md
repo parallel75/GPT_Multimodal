@@ -7,7 +7,7 @@
 * 如果有疑问, 欢迎 email: 798800165@qq.com
 
 ## 视频讲解
-* B站      
+* B站       https://www.bilibili.com/video/BV1yb4y1g7s3/
 * youtube   https://youtu.be/rMni1KonLe8
 
 ## 小小声明
